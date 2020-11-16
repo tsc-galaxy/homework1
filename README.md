@@ -1,0 +1,2 @@
+# homework1
+在python中利用map函数和reduce处理文字和数字
